@@ -1,6 +1,6 @@
 # Navisworks utilities
 
-Unofficial Windows utilities for working with Autodesk Navisworks
+Unofficial utilities for working with Autodesk Navisworks
 
 Note: Autodesk® and Navisworks® are trademarks or registered trademarks of Autodesk, Inc. This project is not affiliated with, sponsored, or endorsed by Autodesk.
 
