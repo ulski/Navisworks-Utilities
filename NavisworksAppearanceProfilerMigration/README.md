@@ -56,4 +56,4 @@ SPDX: MIT — see the [LICENSE](../LICENSE) file for details.
 
 ---
 
-See the code: [script.py](./script.py)
+See the code: [main.py](./main.py)
