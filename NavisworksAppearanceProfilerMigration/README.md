@@ -52,7 +52,7 @@ It reports how many ForceVisibility, Category, and Property elements were change
 - Always keep the original `(Imported).xml` as a backup.
 
 ## License
-SPDX: MIT — see the [LICENSE](../../LICENSE) file for details.
+SPDX: MIT — see the [LICENSE](../LICENSE) file for details.
 
 ---
 
