@@ -1,5 +1,5 @@
 # Navisworks Appearance Profiler migration
-Note: Navisworks is a trademark of Autodesk, Inc. This project is not affiliated with Autodesk.
+Note: Autodesk® and Navisworks® are trademarks or registered trademarks of Autodesk, Inc. This project is not affiliated with, sponsored, or endorsed by Autodesk.
 
 Fixes malformed Appearance Profiler XML produced when importing older (.dat) Appearance Profiler files into newer Navisworks versions, and resets unintended “Hidden” visibility.
 
